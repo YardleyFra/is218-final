@@ -25,9 +25,14 @@ const OpenHours = () => {
           </li>
         ))}
       </ul>
+     <img className={styles.image}
+        src="/images/ladyberista.png"
+        alt="bar"
+      />
     </div>
   );
 };
+
 
 
   

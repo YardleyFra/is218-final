@@ -1,10 +1,16 @@
 .Hours{
     margin-left: 60px;
     width: 600px;
+    margin-bottom: 30%;
 }
 .hours li{
     margin-left: 50%;
 }
 .hours h2{
     margin-left: 50%;
+}
+.image {
+    width:  700px;
+    height: 600px;
+    margin-bottom: 50px;
 }
